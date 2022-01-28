@@ -1,0 +1,5 @@
+name: get-defs
+channels:
+  - defaults
+dependencies:
+  - bs4
